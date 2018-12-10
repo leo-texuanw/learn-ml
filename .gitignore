@@ -119,3 +119,4 @@ __pycache__
 .DS_Store
 log
 *.secret.*
+Data/

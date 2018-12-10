@@ -1,0 +1,4 @@
+- GitHub: GoogleCloudPlatform/tensorflow-without-a-phd
+- Video:  https://www.youtube.com/watch?v=vq2nnJ4g6N0&t=107m25s
+- Slides: https://docs.google.com/presentation/d/1TVixw6ItiZ8igjp6U17tcgoFrLSaHWQmMOwjlgQY9co/pub?slide=id.g110257a6da_0_431
+- https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0
