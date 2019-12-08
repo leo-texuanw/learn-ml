@@ -120,3 +120,4 @@ __pycache__
 log
 *.secret.*
 [Dd]ata/
+logs/
